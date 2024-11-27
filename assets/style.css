@@ -80,6 +80,9 @@ body {
   transform: rotateY(180deg);
 }
 
+.cartao__conteudo__pergunta img {
+  height: 30%;
+}
 
 footer {
   background-color: black;
